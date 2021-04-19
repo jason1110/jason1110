@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my portfolio website
+- 🔭 I’m currently working on Nurturung differences Hackathon!
 - 🌱 I’m currently learning React and Bootstrap
 - 👯 I’m looking to collaborate on Metro ParQR
 - 🤔 I’m looking for help with Refactoring best practices
