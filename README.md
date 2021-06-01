@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Nurturung differences Hackathon!
+- 🔭 I’m currently working on WTTS!
 - 🌱 I’m currently learning React and Bootstrap
 - 👯 I’m looking to collaborate on Metro ParQR
-- 🤔 I’m looking for help with Refactoring best practices
+- 🤔 I’m looking for help with AWS
 - 💬 Ask me about Collaborations, Flutter, and Baking!
 - 📫 How to reach me: jason.easterly11@gmail.com or www.linkedin.com/in/jason-east
 
