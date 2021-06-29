@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on WTTS!
-- 🌱 I’m currently learning React and Bootstrap
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on Metro ParQR
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Collaborations, Flutter, and Baking!
